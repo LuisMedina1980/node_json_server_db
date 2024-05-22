@@ -1,0 +1,54 @@
+{
+  "porfesor": [
+    {
+      "nombre": "Luis",
+      "apellido": "Medina",
+      "materias": [
+        {
+          "nombre": "Matematicas"
+        },
+        {
+          "nombre": "Fisica"
+        },
+        {
+          "nombre": "Estadìsitica"
+        }
+      ],
+      "id": "88b8"
+    }
+  ],
+  "alumnos": [
+    {
+      "Nombre": "Carla",
+      "Apellido": "Acurio",
+      "promedio": 10,
+      "id": "3f2e"
+    },
+    {
+      "Nombre": "Carol",
+      "Apellido": "Noboa",
+      "promedio": 7.3,
+      "id": "d761"
+    }
+  ],
+  "cursos": [
+    {
+      "name": "Analisis de Datos",
+      "duracion": 7,
+      "dificultad": "intermedio",
+      "id": "0d34"
+    },
+    {
+      "name": "Probabilidad y Estadisitica",
+      "duracion": 8,
+      "dificultad": "intermedio",
+      "id": "4932"
+    },
+    {
+      "name": "Regresiones y Clusterizacion",
+      "duracion": 8,
+      "dificultad": "alta",
+      "id": "27cc"
+    }
+  ]
+}
